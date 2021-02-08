@@ -1,3 +1,3 @@
 # jar-project
-checking the pollscm job 1
+checking the pollscm job
 checking the poll scm
